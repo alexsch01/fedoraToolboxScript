@@ -1,5 +1,5 @@
 # fedoraToolboxScript
-Quickly set up Fedora Toolbox
+Quickly set up Fedora Toolbox container
 
 ```
 git clone https://github.com/alexsch01/fedoraToolboxScript
